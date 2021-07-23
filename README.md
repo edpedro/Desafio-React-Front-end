@@ -6,6 +6,10 @@
     <img src="./src/assets/video.gif">
 </h1>
 
+<h3 align="center">
+    <a href="https://desafio-react-front-end.vercel.app/">🔗 Acessar a demonstração</a>
+<h3 >
+
 # Indice
 
 - [Sobre](#-sobre)
@@ -40,7 +44,7 @@ Reactjs :
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/edpedro/Desafio-React---Front-end.git
+    $ git clone https://github.com/edpedro/Desafio-React-Front-end.git
 
     # Entrar no diretório
     $ cd web
@@ -49,20 +53,15 @@ Reactjs :
     $ yarn install
 
     # Iniciar o projeto
-    $ cd web - yarn start
+    $ yarn start
 
 ```
 
 ## 🚧 Deploy
 
-Heroku
+vercel
 
-- Nodejs
 - Reactjs
-
-MongoDB Cloud
-
-- NoSql
 
 ---
 
