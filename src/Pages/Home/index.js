@@ -122,7 +122,7 @@ export function Home() {
           </Table>
         ) : (
           <Typography variant="h4" gutterBottom align="center">
-            Favor cadastrar contato
+            Nenhum contato cadastrado
           </Typography>
         )}
       </TableContainer>
